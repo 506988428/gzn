@@ -2,5 +2,5 @@ test git command
 file
 
 add new one by other
-sort dec
+sort desk
 new line
